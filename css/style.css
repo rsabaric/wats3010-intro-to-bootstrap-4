@@ -1,6 +1,6 @@
 /* unvisited link */
 a:link {
-    color: #8fbc8f;
+    color: #319b61;
 }
 
 /* visited link */
@@ -18,10 +18,9 @@ a:active {
     color: black;
 }
 
-
 /* header and footer */
-bg-dark {
-    background-color: #396039!important;
+.bg-dark {
+    background-color: #999999!important;
 }
 
 img:hover {
@@ -29,8 +28,18 @@ img:hover {
     filter: alpha(opacity=1); 
 }
 
+/* breadcrum */
+
+.breadcrumb {
+    background-color:#ffffff;
+}
 
 
+.btn {
+    color:#319b61;
+    border-color: #007bff;
+    background-color: #fff;
+}
 
 
 
