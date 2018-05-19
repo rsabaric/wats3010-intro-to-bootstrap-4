@@ -1,3 +1,43 @@
+/* unvisited link */
+a:link {
+    color: #8fbc8f;
+}
+
+/* visited link */
+a:visited {
+    color: #568f56;
+}
+
+/* mouse over link */
+a:hover {
+    color: #337ab7;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
+
+
+/* header and footer */
+bg-dark {
+    background-color: #396039!important;
+}
+
+img:hover {
+    opacity: .7;
+    filter: alpha(opacity=1); 
+}
+
+
+
+
+
+
+
+
+
+/* footer */
 .footer-flex {
     display: flex;
     flex-direction: row;
@@ -14,3 +54,4 @@
 .pt-5, .py-5 {
     padding-top: 2rem!important;
 }
+
