@@ -39,7 +39,7 @@ img:hover {
     color:#319b61;
     border-color: #007bff;
     background-color: #fff;
-    transition: background-color .50s ease-in-out,border-color 0.5s ease-in-out,box-shadow .50s ease-in-out;
+    transition: background-color .40s ease-in-out,border-color .40s ease-in-out,box-shadow .40s ease-in-out;
 }
 
 .btn:hover {
