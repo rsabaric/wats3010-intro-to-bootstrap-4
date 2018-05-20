@@ -72,7 +72,12 @@ img:hover {
 .pt-5, .py-5 {
     padding-top: 2rem!important;
 }
+/* FAQ */
 
+.accordin {
+    transition: 20s;
+    transition-delay:20s;
+}
 /* 404 */
 
 .jumbotron {
