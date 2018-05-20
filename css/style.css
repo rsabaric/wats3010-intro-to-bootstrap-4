@@ -73,3 +73,12 @@ img:hover {
     padding-top: 2rem!important;
 }
 
+/* 404 */
+
+.jumbotron {
+    background-color: #fff;
+}
+
+h1.display-1 {
+    font-size: 8rem;
+}
