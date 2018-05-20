@@ -18,22 +18,10 @@ a:active {
     color: black;
 }
 
-/* header and footer */
-.bg-dark {
-    background-color: #999999!important;
+/* body */
+h1,h2,h3,h4 {
+    color:#303030;
 }
-
-img:hover {
-    opacity: .8;
-    filter: alpha(opacity=1); 
-}
-
-/* breadcrum */
-
-.breadcrumb {
-    background-color:#ffffff;
-}
-
 
 .btn {
     color:#319b61;
@@ -47,7 +35,21 @@ img:hover {
     height:45px;
 }
 
+img:hover {
+    opacity: .8;
+    filter: alpha(opacity=1); 
+}
 
+/* breadcrum */
+
+.breadcrumb {
+    background-color:#ffffff;
+}
+
+/* header and footer */
+.bg-dark {
+    background-color: #C0C0C0!important;
+}
 
 /* footer */
 .footer-flex {
