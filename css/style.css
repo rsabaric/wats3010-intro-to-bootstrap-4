@@ -51,6 +51,10 @@ img:hover {
     background-color: #C0C0C0!important;
 }
 
+.navbar-dark .navbar-brand:hover {
+    color:#F0F0F0;
+}
+
 /* footer */
 .footer-flex {
     display: flex;
