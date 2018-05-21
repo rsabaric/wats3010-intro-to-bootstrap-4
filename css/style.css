@@ -87,3 +87,59 @@ img:hover {
 h1.display-1 {
     font-size: 8rem;
 }
+
+/* Custom Media Queries */
+
+/* Extra small devices (phones, 600px and down) */
+
+@media (max-width: 600px) {
+
+    .cta-container {
+        padding-top: 4rem;
+        padding-bottom: 1rem;
+        background-size: cover;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+
+@media (min-width: 600px) {
+
+    .cta-container {
+        padding-top: 6rem;
+        padding-bottom: 1rem;
+        background-size: cover;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+
+@media (min-width: 768px) {
+    .cta-container {
+        padding-top: 8rem;
+        padding-bottom: 2rem;
+        background-size: cover;
+    }
+    
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media (min-width: 992px) {
+    .cta-container {
+        padding-top: 8rem;
+        padding-bottom: 2rem;
+        background-size: cover;
+    }
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .cta-container {
+        padding-top: 8rem;
+        padding-bottom: 2rem;
+        background-size: cover;
+    }
+   
+}
+
